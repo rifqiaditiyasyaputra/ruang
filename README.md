@@ -28,8 +28,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
 
 ```bash
 # 1. Clone Repository
-git clone https://github.com/USERNAME/REPO-NAME.git
-cd REPO-NAME
+git clone https://github.com/rifqiaditiyasyaputra/ruang
+cd ruang
 
 # 2. Install Dependency PHP
 composer install
